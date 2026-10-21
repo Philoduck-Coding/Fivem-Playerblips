@@ -3,7 +3,7 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'SD Scripts'
+author 'Philoduckcoding'
 description 'Player blips toggle for ESX Legacy'
 version '1.0.0'
 contact 'moin@duckspace.ninja'
